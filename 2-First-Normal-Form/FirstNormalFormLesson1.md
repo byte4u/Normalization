@@ -21,7 +21,7 @@
 
 ``` mysql
 --  1º Shows all records
-SELECT * FROM cliente;
+SELECT * FROM customer;
 
 -- 2º Counts how many customers there are
 SELECT COUNT(name) AS 'Customers Qty' 
