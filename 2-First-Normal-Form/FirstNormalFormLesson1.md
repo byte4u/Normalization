@@ -32,7 +32,7 @@ SELECT COUNT(phone) AS 'Phones'
 FROM customer;
 
 -- 4º Shows all female customers 
-SELECT genre, COUNT(genre) 
+SELECT genre, COUNT(genre)  
 FROM customer
 GROUP BY genre;
 
