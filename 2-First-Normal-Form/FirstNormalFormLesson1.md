@@ -24,7 +24,7 @@
 SELECT * FROM customer;
 
 -- 2º Counts how many customers there are
-SELECT COUNT(name) AS 'Customers Qty' 
+SELECT COUNT(name) AS 'Customers Qty'  
 FROM cliente;
 
 -- 3º Count how many phones there are 
